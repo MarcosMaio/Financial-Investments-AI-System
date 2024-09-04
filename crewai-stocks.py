@@ -1,5 +1,4 @@
 # Import das Libs
-import json
 import os
 from datetime import datetime, timedelta, date
 
@@ -17,8 +16,6 @@ from langchain_openai import ChatOpenAI
 from langchain_community.tools import DuckDuckGoSearchResults
 
 from crewai_tools import tool
-
-import google.generativeai as genai
 
 import streamlit as st
 
