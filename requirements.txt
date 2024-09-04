@@ -1,12 +1,12 @@
-yfinance==0.2.31      # Versão mais recente do pacote yfinance
-numpy==1.25.2         # Versão mais recente do pacote numpy
-requests==2.31.0      # Versão mais recente do pacote requests
-crewai==0.1.8         # Versão mais recente do pacote crewai
+yfinance==0.2.41
+numpy==1.26.4
+requests==2.32.3  
+crewai==0.28.8  
 crewai-tools==0.1.7
-langchain==0.0.308    # Versão mais recente do pacote langchain
-langchain_openai==0.1.0  # Versão do pacote langchain_openai
-langchain-community-tools==0.1.1 # Versão mais recente do pacote langchain_community.tools
-streamlit==1.26.0     # Versão mais recente do pacote streamlit
-pysqlite3-binary==0.4.5 # Versão mais recente do pacote pysqlite3-binary
-duckduckgo-search==5.3.0 # Versão mais recente do pacote duckduckgo_search
-python-dotenv==1.0.0
+langchain==0.1.20  
+langchain_openai==0.1.7 
+langchain-community==0.0.38 
+streamlit==1.38.0  
+pysqlite3-binary 
+duckduckgo-search==5.3.0 
+python-dotenv==1.0.0 
