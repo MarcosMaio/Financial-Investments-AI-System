@@ -2,6 +2,12 @@
 
 Este projeto é um sistema de análise de ações e avaliação de riscos de investimentos, utilizando agentes de IA para fornecer insights detalhados sobre o mercado, riscos e tendências de ações. A aplicação foi desenvolvida para permitir que investidores e analistas tenham acesso a informações de mercado atualizadas e possam avaliar o risco de forma eficiente.
 
+
+
+https://github.com/user-attachments/assets/607cff65-c01e-49ec-aab4-d537e5b4f30f
+
+
+
 ## Funcionalidades
 
 - **Análise de Ações**: Consulta de dados financeiros e técnicos de uma empresa por meio da integração com APIs, como Alpha Vantage e Yahoo Finance.
