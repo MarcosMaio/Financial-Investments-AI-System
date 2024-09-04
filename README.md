@@ -3,7 +3,6 @@
 Este projeto é um sistema de análise de ações e avaliação de riscos de investimentos, utilizando agentes de IA para fornecer insights detalhados sobre o mercado, riscos e tendências de ações. A aplicação foi desenvolvida para permitir que investidores e analistas tenham acesso a informações de mercado atualizadas e possam avaliar o risco de forma eficiente.
 
 
-
 https://github.com/user-attachments/assets/607cff65-c01e-49ec-aab4-d537e5b4f30f
 
 
@@ -27,6 +26,7 @@ https://github.com/user-attachments/assets/607cff65-c01e-49ec-aab4-d537e5b4f30f
   - **Yahoo Finance**: Utilizado para acessar cotações e informações de mercado.
 - **WSL (Windows Subsystem for Linux)**: Ambiente de desenvolvimento configurado com Ubuntu e Python 3.12.
 - **DuckDuckGo Search**: Ferramenta utilizada para pesquisar notícias relacionadas à empresa alvo da análise.
+- **Deploy da Aplição em Cloud**: Streamlit Community Cloud.
 
 ## Estrutura do Projeto
 
