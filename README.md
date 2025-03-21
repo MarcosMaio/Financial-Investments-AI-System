@@ -1,4 +1,4 @@
-# Financial Investments AI Bot
+# Financial Investments AI System
 
 Este projeto é um sistema de análise de ações e avaliação de riscos de investimentos, utilizando agentes de IA para fornecer insights detalhados sobre o mercado, riscos e tendências de ações. A aplicação foi desenvolvida para permitir que investidores e analistas tenham acesso a informações de mercado atualizadas e possam avaliar o risco de forma eficiente.
 
